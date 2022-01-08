@@ -161,3 +161,4 @@ class App:
 
     def reset(self):
         self.rep_counter = 0
+        
