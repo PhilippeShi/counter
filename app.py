@@ -6,6 +6,7 @@ import camera
 import model
 import shutil
 
+# TODO clean up code
 
 class App:
 
